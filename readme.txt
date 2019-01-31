@@ -16,3 +16,5 @@ master上添加一行
 dev ++
 
  add dev
+
+testgit add dev to readme.txt
